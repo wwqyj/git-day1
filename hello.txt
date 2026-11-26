@@ -10,3 +10,5 @@
 изменения через Visual Studio
 строка из gui-feature
 строка из gui-feature (main)
+временное изменение для stash
+Анастасия К.

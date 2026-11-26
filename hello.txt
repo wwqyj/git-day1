@@ -5,3 +5,4 @@
 строка из feature-a
 строка из feature-b
 строка шесть
+коммит в main после создания feature-rebase

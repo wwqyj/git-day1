@@ -8,3 +8,4 @@
 коммит в main после создания feature-rebase
 первый коммит feature-rebase
 изменения через Visual Studio
+строка из gui-feature (main)

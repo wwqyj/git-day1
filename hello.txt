@@ -6,3 +6,5 @@
 строка из feature-b
 строка шесть
 коммит в main после создания feature-rebase
+первый коммит feature-rebase
+
